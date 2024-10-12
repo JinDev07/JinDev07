@@ -1,6 +1,7 @@
 # I am MI Tayjin (Jin)
 ## Flutter App Developer
-https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/462933620_122174267126240902_4343284110550133997_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHrpbFjYOr8WpyavRste24IMFLh2d2-frQwUuHZ3b5-tBeadjVcS620FpEd2pefDYrOhqBkcqDgdHSR81IvEw6S&_nc_ohc=AmwUKxm5Q10Q7kNvgETQHYv&_nc_zt=23&_nc_ht=scontent.fdac5-1.fna&_nc_gid=AD3ayhoBQWRXH76crTzoqlg&oh=00_AYB-wgqFHD8Ha9RBS1Lx_oRzNTlQFWLfaiJkQIP1A3pgLA&oe=67107598
+![Uploading image.png…]()
+
 👤 MI Tayjin (Jin)
 Flutter Developer | 🚀 Passionate about crafting innovative mobile applications | 🌱 Always eager to learn and share knowledge | 💡 Exploring the intersection of technology and creativity | 🌍 Let's collaborate and build something amazing!
 
