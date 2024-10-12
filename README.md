@@ -2,8 +2,9 @@
 ## Flutter App Developer
 
 
-👤 MI Tayjin (![462320145_1456102911742547_1305361040154942143_n](https://github.com/user-attachments/assets/3c803b39-7d25-4beb-86ec-a3297828c9bd)
-Jin)
+![462320145_1456102911742547_1305361040154942143_n](https://github.com/user-attachments/assets/3c803b39-7d25-4beb-86ec-a3297828c9bd)
+
+👤 MI Tayjin (Jin)
 Flutter Developer | 🚀 Passionate about crafting innovative mobile applications | 🌱 Always eager to learn and share knowledge | 💡 Exploring the intersection of technology and creativity | 🌍 Let's collaborate and build something amazing!
 
 
