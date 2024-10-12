@@ -1,4 +1,7 @@
 ## Hi there 👋
+👤 MI Tayjin (Jin)
+Flutter Developer | 🚀 Passionate about crafting innovative mobile applications | 🌱 Always eager to learn and share knowledge | 💡 Exploring the intersection of technology and creativity | 🌍 Let's collaborate and build something amazing!
+
 
 <!--
 **JinDev07/JinDev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
