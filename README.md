@@ -1,4 +1,4 @@
-#I am MI Tayjin (Jin)
+# I am MI Tayjin (Jin)
 #### Flutter App Developer
 ![Flutter App Developer](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-1/462320145_1456102911742547_1305361040154942143_n.jpg?stp=dst-jpg_s200x200&_nc_cat=106&ccb=1-7&_nc_sid=50d2ac&_nc_eui2=AeHlLsPPQ0_cl7ssQ_KShobElOLl3wXvGteU4uXfBe8a18kBfebn6yGWmFjUbN_ltBcj5X39uLTjQWxI-XT_clPN&_nc_ohc=tjlcwvm99AAQ7kNvgGPXBLR&_nc_ht=scontent.fdac5-1.fna&_nc_gid=AasrmOyZZmwDQcqBk-WhvpH&oh=00_AYBEYudVGlGvJckozsLJ_67OdlW_5ajFuoYfi-j_evaFyg&oe=67105C48)
 
