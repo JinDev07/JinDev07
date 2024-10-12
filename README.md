@@ -1,6 +1,6 @@
 # I am MI Tayjin (Jin)
 ## Flutter App Developer
-https://www.facebook.com/photo/?fbid=122174267120240902&set=a.122096829554240902
+![image](https://github.com/user-attachments/assets/fbacfd52-b608-4cbd-8d05-72a8b1783a57)
 
 👤 MI Tayjin (Jin)
 Flutter Developer | 🚀 Passionate about crafting innovative mobile applications | 🌱 Always eager to learn and share knowledge | 💡 Exploring the intersection of technology and creativity | 🌍 Let's collaborate and build something amazing!
